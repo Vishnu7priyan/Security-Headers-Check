@@ -8,3 +8,6 @@ Python, Requests Library
 ```python
 python script.py --url <Enter URL Here> 
 ```
+##Output
+![Output Screenshot](https://github.com/Vishnu7priyan/Security-Headers-Check/blob/main/Output.png)
+
